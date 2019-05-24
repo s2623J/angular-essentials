@@ -1,2 +1,2 @@
 # angular-essentials
-Coursework
+Coursework on Angular Basics
